@@ -1,11 +1,19 @@
 Author: Kellan Anderson
 Date: 11/10/2021
 
-This application is meant to help me to learn more about the Python Django framework. In order to
-learn more about this framework I will be following along with a tutorial series I found on YouTube
-by Corey Schafer. I will be following along with his videos in order to learn the material but I do
-not take credit for any of the code that I will write as it will be provide through the videos. I
-expect progress o this to be slow due to school work as well as employment at a part time job.
+This application is meant to help me to learn more about the Python Django framework. In order to learn more about this
+framework I will be following along with a tutorial series I found on YouTube by Corey Schafer. I will be following
+along with his videos in order to learn the material but I do not take credit for any of the code that I will write as
+it will be provide through the videos. I expect progress I this to be slow due to school work as well as employment at a
+part time job.
 
 The link to the web series is:
 https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
+
+Date: 11/11/2021
+I want to re-iterate that I do not take credit for any of the code in the django_project directory as it has been pulled
+from the video or from the link below. Full credit for the code goes to Corey Schafer, the creator of this series. Also
+I have set a deadline for myself, I aim to complete all 17 videos in this series by Christmas of 2021
+
+Link to code snippets:
+https://github.com/CoreyMSchafer/code_snippets/tree/master/Django_Blog/snippets
